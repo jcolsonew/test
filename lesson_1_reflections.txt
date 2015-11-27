@@ -1,0 +1,35 @@
+How did viewing a diff between 2 versions of a file help see the bug that was introduced?
+Rather than manually looking back and forth between 2 files while scanning down the page
+to find a difference, diff concisely gives an automated report of what was different,
+both additions and subtractions.  In addition to being slow, we may miss a difference in
+the manual process.
+
+How could having easy access to the entire file history make you a more efficent programmer
+in the long term?
+Many times when I change something, I'll comment it out for a while but then delete it.
+Then something will break, and I'll want the old code back, and then will recreate that
+code from scratch!!!  This allows me to just go get it, copy and paste into current version.
+
+What are the pros and cons of manually committing vs auto commit?
+Pros are that we can choose when to make an intelligent commit based on a logical, functional decision.
+Auto would have random commits with most having no meaning, and probably too many.  Of course manual
+does not force one to make commits, so could forget or go too long without committing.
+
+Why do you think some VCS allow saving multiple files and some only one?
+They were probably built for different things.  Google docs is more Word processing or spreadsheet
+related tasks which usually do not relate to other files.  Software programs almost always
+have multiple related files.
+
+How can I use git log and git diff to view the history of files?
+Typing git log gives the list of commits with a description.  When we see the commit we want to investigate,
+type git diff with the commit id of the entry below it and then the commit id of the commit
+we're interested in.
+
+How might using version control make you more confident to make changes that could break something?
+We know that no matter what I do to the most recent version of files, we can always checkout the
+prior commit to get a clean, working version of code.
+
+How do you want to use Git?
+I'd like to put my words Python program under Git version control.  Also want to learn it for future
+job opportunities.
+
