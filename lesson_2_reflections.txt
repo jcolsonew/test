@@ -6,3 +6,10 @@ How is staging different from working directory and repository?
 Staging area is a temp area a file gets put in before it's placed in the repository.  Working directory
 is just the folder you're working in.
 
+How can you use the staging area to make sure you have one commit per logical change?
+You can just add the file or file that are related to the logical change, and then commit only those
+files.
+
+Situations when branches would be helpful?
+new features
+
