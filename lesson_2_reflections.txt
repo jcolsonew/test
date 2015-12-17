@@ -13,3 +13,6 @@ files.
 Situations when branches would be helpful?
 new features
 
+How do diagrams help visualize branch structure?
+Gives a pictorial representation of a branch and shows last commit ids when the branch happened.
+
