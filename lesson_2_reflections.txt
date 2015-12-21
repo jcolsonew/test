@@ -16,3 +16,7 @@ new features
 How do diagrams help visualize branch structure?
 Gives a pictorial representation of a branch and shows last commit ids when the branch happened.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+All changes in both branches are reflected in the merged branch.
+It is shown visually that way because the 2 lines becoming one reflect the merging process.
+
