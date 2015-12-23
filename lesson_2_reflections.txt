@@ -20,3 +20,7 @@ What is the result of merging two branches together? Why do we represent it in t
 All changes in both branches are reflected in the merged branch.
 It is shown visually that way because the 2 lines becoming one reflect the merging process.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros - much faster and will warn if it can't resolve a commit
+Cons - you may not know what's going on with some code that's being merged
+
