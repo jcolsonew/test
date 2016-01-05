@@ -11,3 +11,5 @@ Fork allows me to copy a github repo to my github account
 Clone allows copy either locally of a local repo or locally of a github repo
 Branch allows me to take my repo and make changes without affecting the master.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Can easily do a diff against my local changes to see what's been done.
