@@ -17,3 +17,9 @@ Can easily do a diff against my local changes to see what's been done.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Perhaps use an intelligent file structure, but at the end of the day, anything one does would be 
 manually or through workflow mimicking to a certain extent what git and github do.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+Upgrades, bug fixes.
+Working in master is simpler but if something doesn't work, more complicated to get back to
+good state.
